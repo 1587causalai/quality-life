@@ -19,3 +19,15 @@ Initialized empty Git repository in /home/ghy/test/5-project-age/quality-life/.g
  create mode 100644 README.md
  create mode 100644 quality-life.Rproj
 ]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ [K]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git commit -m "frist commit"add .[K
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git add .commit -m "frist commit"
+[master f8ae7cd] frist commit
+ 8 files changed, 55 insertions(+), 4 deletions(-)
+ create mode 100644 .Rproj.user/1506B92E/sources/prop/D9D93B29
+ create mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/E6E67133
+ create mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/E6E67133-contents
+ create mode 100644 Records.md
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git add remote origin git@github.com:HeyangGong/quanl[K[Klity-life.git
+fatal: pathspec 'remote' did not match any files
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git add remote origin git@github.com:HeyangGong/quality-life.git[36Pcommit -m "frist commit"add .[Kcommit -m "frist commit"add .[K[1Pinit
+Reinitialized existing Git repository in /home/ghy/test/5-project-age/quality-life/.git/
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git initadd remote origin git@github.com:HeyangGong/quality-life.gitinit[Kadd remote origin git@github.com:HeyangGong/quality-life.git[36Pcommit -m "frist commit"add .[K
