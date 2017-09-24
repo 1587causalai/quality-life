@@ -1,3 +1,21 @@
 ]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ [K]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git ni[K[Kinit
 Initialized empty Git repository in /home/ghy/test/5-project-age/quality-life/.git/
 ]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git add .
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git commit -m ""f"i"s"t"[1P"[1P"[1P"r"i"s"t" "c"o"m"m"i"t"
+[master (root-commit) 83c957b] frist commit
+ 14 files changed, 89 insertions(+)
+ create mode 100644 .Rproj.user/1506B92E/console06/4AA72055
+ create mode 100644 .Rproj.user/1506B92E/console06/INDEX001
+ create mode 100644 .Rproj.user/1506B92E/sources/prop/68590515
+ create mode 100644 .Rproj.user/1506B92E/sources/prop/BCBCB79
+ create mode 100644 .Rproj.user/1506B92E/sources/prop/INDEX
+ create mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/180242BC
+ create mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/180242BC-contents
+ create mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/5944796
+ create mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/5944796-contents
+ create mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 Agreement.md
+ create mode 100644 README.md
+ create mode 100644 quality-life.Rproj
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ [K]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git commit -m "frist commit"add .[K
