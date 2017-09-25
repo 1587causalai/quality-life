@@ -75,3 +75,38 @@ and the repository exists.
 gong.start it push -u origin masterremote add origin git@github.com:HeyangGong/quality-life.git[39Ppush -u origin masterremote add origin git@github.com:HeyangGong/quality-life.git[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pcommit -m "frist commit"add .[K[1Pinit
 Reinitialized existing Git repository in /home/ghy/test/5-project-age/quality-life/.git/
 ]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git initong.start it push -u origin masterremote add origin git@github.com:HeyangGong/quality-life.git[39Ppush -u origin masterremote add origin git@github.com:HeyangGong/quality-life.git[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pcommit -m "frist commit"add .[K
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git add .[1Pinitong.start it push -u origin masterremote add origin git@github.com:HeyangGong/quality-life.git[39Ppush -u origin masterremote add origin git@github.com:HeyangGong/quality-life.git[39Ppush -u origin masterremote add origin git@github.com:HeyangGong/quality-life.git[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pcommit -m "frist commit"
+[master 7db3728] frist commit
+ 10 files changed, 50 insertions(+), 82 deletions(-)
+ rewrite .Rproj.user/1506B92E/console06/INDEX001 (86%)
+ delete mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/180242BC
+ delete mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/180242BC-contents
+ delete mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/5944796
+ delete mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/5944796-contents
+ delete mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/E6E67133
+ delete mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/E6E67133-contents
+ delete mode 100644 .Rproj.user/1506B92E/sources/s-F0603263/lock_file
+ create mode 100644 .gitignore
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git commit -m "frist commit"add .[K[1Pinitong.start it push -u origin masterremote add origin git@github.com:HeyangGong/quality-life.git
+fatal: remote origin already exists.
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git remote add origin git@github.com:HeyangGong/quality-life.git[36Pcommit -m "frist commit"add .[K[1Pinitong.start it push -u origin master
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git push -u origin master
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ git push -u origin master
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+git ni[K[Knint[K[K[K[Kinit
+Reinitialized existing Git repository in /home/ghy/test/5-project-age/quality-life/.git/
+]0;/home/ghy/test/5-project-age/quality-life]0;ghy@ghy-ThinkPad-T440: ~/test/5-project-age/quality-lifeghy@ghy-ThinkPad-T440:~/test/5-project-age/quality-life$ in[K[Kgit add .
